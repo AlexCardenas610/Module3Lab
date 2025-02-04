@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Module3Lab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73a302c267c7eda2c9d47294191657ac7628c073")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed08622bba6edfc6ad39b2fd0c331dd0ed67d2e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Module3Lab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Module3Lab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

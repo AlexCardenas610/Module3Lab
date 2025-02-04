@@ -11,7 +11,7 @@ namespace TacoBurritoLab {
 
             // Decide what food to recommend based on the hunger level
             if (hungerLevel >= 8) {
-                Console.WriteLine("You're super hungry! Order bith tacos and burritos");
+                Console.WriteLine("You're super hungry! Order both tacos and burritos");
 
             }
             else if (hungerLevel >= 5) {
@@ -21,7 +21,7 @@ namespace TacoBurritoLab {
             else {
                 Console.WriteLine("You're not that hungry. Opt for a burrito.");
 
-            } //end else if
+             }//end else if
 
             // Display final food recommendation
             String recommendation = (hungerLevel >= 5) ? "Tacos" : "Burritos";
@@ -44,7 +44,6 @@ namespace TacoBurritoLab {
                 default:
                     Console.WriteLine("Maybe just grab a snack");
                     break;
-        
             } // end switch
         } //end main method
     } //end Program class
